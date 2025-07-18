@@ -1,8 +1,8 @@
-export function suma(a, b) {
+function suma(a, b) {
     return a + b;
 }
 
-export function esPar(numero) {
+function esPar(numero) {
     return numero % 2 === 0
 }
 
